@@ -52,3 +52,6 @@ Les performances des modèles sont évaluées à l'aide de métriques telles que
 ## Auteur
 
 Projet réalisé dans le cadre d'un mini-projet de Machine Learning.
+
+Notebook preview:
+https://nbviewer.org/github/SimoV8Y/diabetes-prediction-ml/blob/main/miniprojet.ipynb
